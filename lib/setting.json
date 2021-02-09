@@ -1,0 +1,13 @@
+{
+  "sAdmin": "6282235205986@c.us",
+  "restartState": true,
+  "restartId": "6282235205986@c.us",
+  "banChats": false,
+  "Rest": true,
+  "limitCount": 30,
+  "memberLimit": 25,
+  "groupLimit": 25,
+  "prefix": "#",
+  "mtc": false,
+  "whitelist": []
+}
